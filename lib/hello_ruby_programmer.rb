@@ -4,4 +4,3 @@ end
 
 name = "name"
 greeting(name)
-
